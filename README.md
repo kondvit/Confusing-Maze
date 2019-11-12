@@ -11,5 +11,5 @@ There is a **green circle** on the ground indicating the next step to take to so
 
 # Involves implementation of the following:
   - Prim's algorithm for maze generation
-  - BFS shortest pathfinding alg
+  - BFS shortest pathfinding alg through a 3d random space
   
