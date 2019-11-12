@@ -15,3 +15,5 @@ There is a **green circle** on the ground indicating the next step to take to so
   - Prim's algorithm for maze generation
   - BFS shortest pathfinding alg through a 3d random space
   
+This project is done in the setting of COMP521 class at McGill University. All the credit for coming up with this project goes to Professor Clark Verbrugge.
+  
