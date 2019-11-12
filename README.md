@@ -7,7 +7,9 @@ This project involves a random maze generation. The maze behaves in a way so tha
 
 There is a **green circle** on the ground indicating the next step to take to solve the maze. The exit is at random location in every run.
 
-<div style="text-align:center"><img src="https://github.com/kondvit/kondvit.github.io/blob/master/images/confusingmazesample4.gif?raw=true"/>
+<p align="center">
+  <img src="https://github.com/kondvit/kondvit.github.io/blob/master/images/confusingmazesample4.gif?raw=true"/>
+</p>
 
 # Involves implementation of the following:
   - Prim's algorithm for maze generation
