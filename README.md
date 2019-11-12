@@ -1,11 +1,11 @@
 # Confusing-Maze
 
-(Warning)
+(Disclaimer)
 This is still work in progress, everything works just requires refactoring.
 
-This project involves a random maze generation. The maze behaves in a way so that whenever you make a step in the maze it changes completely. The walls in the maze appear and disapear around the player. The maze is pregenerated in the beginning of each game. 
-
-There is a **green circle** on the ground indicating the next step to take to solve the maze. The exit is at random location in every run.
+## Goal
+This project involves a random maze generation. The maze behaves in a way so that whenever you make a step in the maze it changes completely. Meaning, the walls in the maze appear and disapear around the player. The maze is pregenerated in the beginning of each game. 
+There is a **green circle** on the ground that indicates the next step to take to solve the maze. The exit is at a random location on every run.
 
 <p align="center">
   <img src="https://github.com/kondvit/kondvit.github.io/blob/master/images/confusingmazesample4.gif?raw=true"/>
