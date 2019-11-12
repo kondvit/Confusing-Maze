@@ -11,7 +11,7 @@ There is a **green circle** on the ground indicating the next step to take to so
   <img src="https://github.com/kondvit/kondvit.github.io/blob/master/images/confusingmazesample4.gif?raw=true"/>
 </p>
 
-# Involves implementation of the following:
+### Involves implementation of the following:
   - Prim's algorithm for maze generation
   - BFS shortest pathfinding alg through a 3d random space
   
