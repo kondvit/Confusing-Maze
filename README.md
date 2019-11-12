@@ -1,7 +1,7 @@
 # Confusing-Maze
 
 (Warning)
-This is still work in progress, the code requires some cleaning.
+This is still work in progress, everything works just requires refactoring.
 
 This project involves a random maze generation. The maze behaves in a way so that whenever you make a step in the maze it changes completely. The walls in the maze appear and disapear around the player. The maze is pregenerated in the beginning of each game. 
 
