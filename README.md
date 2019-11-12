@@ -1,5 +1,8 @@
 # Confusing-Maze
 
+(Warning)
+This is still work in progress, the code requires some cleaning.
+
 This project involves a random maze generation. The maze behaves in a way so that whenever you make a step in the maze it changes completely. The maze is pregenerated in the beginning of each game. 
 
 There is a **green circle** on the ground indicating the next step to take to solve the maze. The exit is at random location in every run.
